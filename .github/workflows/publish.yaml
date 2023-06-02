@@ -17,3 +17,4 @@ jobs:
           PUBLISH_REGISTRY_PASSWORD: ${{ secrets.PYPI_TOKEN }}
           POETRY_VERSION: 1.4.0
           PYTHON_VERSION: 3.11
+          BRANCH: main
