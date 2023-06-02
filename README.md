@@ -3,7 +3,7 @@ This repo provides a python logger wrapper for structured logs on gcp.
 
 ## Installation
 ```
-pip isntall python-custom-logger
+pip install python-custom-logger
 or
 poetry add python-custom-logger
 ```
